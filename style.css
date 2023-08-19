@@ -1,0 +1,22 @@
+.name{
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 12vw;
+    height: 38px;
+    align-items: center;
+    padding-left: 8px;
+    border-radius: 3px;
+}
+
+.gender{
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 150px;
+    height: 30px;
+    border-radius: 3px;
+    margin: 10px;
+}
+
+.btn btn-success{
+    margin-left: 100px;
+}
